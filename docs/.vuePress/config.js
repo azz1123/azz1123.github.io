@@ -1,7 +1,7 @@
 module.exports = {
   title: "敖珍珍的个人博客",
   decription: "azz blog",
-  base: "/test",
+  base: "/",
   dest: "./test",
   themeConfig: {
     //导航配置
