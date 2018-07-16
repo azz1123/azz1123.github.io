@@ -1,8 +1,8 @@
 module.exports = {
   title: "敖珍珍的个人博客",
   decription: "azz blog",
-  base: "/",
-  dest: "./docs/.vuepress/dist",
+  base: "/test",
+  dest: "./test",
   themeConfig: {
     //导航配置
     nav: [
